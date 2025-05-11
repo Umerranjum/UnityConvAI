@@ -237,11 +237,10 @@ MonoBehaviour:
   sessionID: -1
   isCharacterTalking: 0
   isCharacterActive: 0
-  isInitialized: 0
+  playerInteractionManager: {fileID: 0}
   onTriggerSent:
     m_PersistentCalls:
       m_Calls: []
-  playerInteractionManager: {fileID: 0}
 --- !u!114 &8366973566790339323
 MonoBehaviour:
   m_ObjectHideFlags: 0
